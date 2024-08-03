@@ -18,7 +18,7 @@ html {
     top: 50%;
     left: 50%;
     transform: translate(-50%, 0);
-    background: #65402b;
+    background: #ff5e00;
     color: white;
     text-transform: uppercase;
     border: 0;
@@ -33,7 +33,7 @@ html {
   }
   
   .button:hover {
-    background: #65402b;
+    background: #ff5e00;
   }
   
   .button--hide {
@@ -58,7 +58,7 @@ html {
   
   .success-screen {
     position: relative;
-    background: #65402b;
+    background: #ff5e00;
     color: white;
     display: flex;
     align-items: center;
